@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 # Halo 👋, saya Dhany Rolas
 
-Mahasiswa Ilmu Komputer yang sedang membangun karier di bidang **Cybersecurity**.
+Mahasiswa Ilmu Komputer yang sedang membangun karier di bidang ** Web Programming
 
 - 🎓 Mahasiswa Program Studi Ilmu Komputer
 - 🔐 Tertarik dan sedang belajar di bidang **Web Developer** 
