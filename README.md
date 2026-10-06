@@ -1,38 +1,78 @@
 ## Hi there 👋
+# I'm Dhany Rolas 👋
 
-<!--
-**dhanyrolas21/dhanyrolas21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | Web Developer in Progress
 
-Here are some ideas to get you started:
+I'm a Computer Science student who is currently learning and building projects in **Web Development**.
 
-- 🔭 I’m currently working on State University of Medan
-- 🌱 I’m currently learning Web Programming
-- 💬 Ask me about ... anything
+I enjoy turning ideas into websites, learning new technologies, and exploring how systems work.
 
+---
 
-# Halo 👋, saya Dhany Rolas
+## 👨‍💻 About Me
 
-Mahasiswa Ilmu Komputer yang sedang membangun karier di bidang ** Web Programming
+- 🎓 Computer Science Student
+- 🌐 Currently focused on **Web Development**
+- 🐧 Daily driving **Ubuntu Linux**
+- 📚 Currently learning **HTML, CSS, JavaScript, PHP, Laravel, and modern web technologies**
+- 🚀 Building projects while improving my programming fundamentals
+- 💡 Interested in creating useful and practical applications
 
-- 🎓 Mahasiswa Program Studi Ilmu Komputer
-- 🔐 Tertarik dan sedang belajar di bidang **Web Developer** 
-- 🌱 Saat ini sedang memperdalam: web development & keamanan sistem
-- 📫 Cara menghubungi saya: dhanyrolas21@gmail.com
+---
 
-## Bahasa Pemrograman
+## 🛠️ Tech Stack
 
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![PHP](https://skillicons.dev/icons?i=php)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
+### Languages
 
-## Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php," />
+</p>
 
-![Git](https://skillicons.dev/icons?i=git)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![GitHub](https://skillicons.dev/icons?i=github)
+### Frameworks & Tools
 
-## GitHub Stats
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,laravel,git,github,vscode" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dhanyrolas21&show_icons=true&theme=dark)
+### Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,mysql" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Web Development
+
+Projects created while learning Web Programming:
+
+- **NexTechCommerce** — Responsive product catalog website
+- **Weather App** — Weather application using an API
+- **Web Portfolio Projects** — Collection of web development assignments and experiments
+
+### 📊 Academic Projects
+
+- **Calculus Project** — Mathematical analysis of traffic congestion using real observation data
+- **FMIPA Navigation Website** — Interactive campus navigation concept
+- **Logic Gate & Digital Circuit Projects** — Practical digital logic experiments
+
+---
+
+## 📚 Currently Learning
+
+```text
+HTML / CSS
+     ↓
+JavaScript
+     ↓
+Git & GitHub
+     ↓
+PHP
+     ↓
+Laravel
+     ↓
+REST API
+     ↓
+Modern Web Development
