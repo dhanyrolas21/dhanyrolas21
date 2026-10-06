@@ -25,7 +25,7 @@ I enjoy turning ideas into websites, learning new technologies, and exploring ho
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
 ### Frameworks & Tools
@@ -60,19 +60,40 @@ Projects created while learning Web Programming:
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Overview
 
-```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-Git & GitHub
-     ↓
-PHP
-     ↓
-Laravel
-     ↓
-REST API
-     ↓
-Modern Web Development
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dhanyrolas21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyrolas21&layout=compact&theme=tokyonight&hide_border=true" 
+    width="42%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dhanyrolas21&theme=tokyonight&hide_border=true" 
+    width="60%"
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://wa.me/6282181795113">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="42px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/dhanyrolas">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/1435257401019203585">
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="42px" />
+</a>
+</p>
