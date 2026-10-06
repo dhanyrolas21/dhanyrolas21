@@ -31,7 +31,7 @@ I enjoy turning ideas into websites, learning new technologies, and exploring ho
 ### Frameworks & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,laravel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,laravel,git,github,vscode" />
 </p>
 
 ### Environment
