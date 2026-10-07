@@ -15,8 +15,10 @@ I enjoy turning ideas into websites, learning new technologies, and exploring ho
 - 🌐 Currently focused on **Web Development**
 - 🐧 Daily driving **Ubuntu Linux**
 - 📚 Currently learning **HTML, CSS, JavaScript, PHP, Laravel, and modern web technologies**
-- 🚀 Building projects while improving my programming fundamentals
-- 💡 Interested in creating useful and practical applications
+- - 🌐 Building responsive web projects
+- 📚 Improving JavaScript & PHP fundamentals
+- ⚡ Learning Laravel and REST API
+- 🐧 Exploring Linux & command-line tools
 
 ---
 
