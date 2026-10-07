@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I'm Dhany Rolas 👋
+# I'm Dhany Rolas 
 
 ### 💻 Computer Science Student | Web Developer in Progress
 
