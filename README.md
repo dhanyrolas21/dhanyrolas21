@@ -46,7 +46,7 @@ I enjoy turning ideas into websites, learning new technologies, and exploring ho
 
 ## 🚀 Featured Projects
 
-### 🌐 Web Development
+🔗  🌐 Web Development
 
 Projects created while learning Web Programming:
 
@@ -54,7 +54,7 @@ Projects created while learning Web Programming:
 - **Weather App** — Weather application using an API
 - **Web Portfolio Projects** — Collection of web development assignments and experiments
 
-### 📊 Academic Projects
+🔗 🎓 Academic Projects
 
 - **Calculus Project** — Mathematical analysis of traffic congestion using real observation data
 - **FMIPA Navigation Website** — Interactive campus navigation concept
@@ -62,7 +62,7 @@ Projects created while learning Web Programming:
 
 ---
 
-## 📊 GitHub Overview
+🔗 🐙 GitHub Overview
 
 <p align="center">
   <img 
